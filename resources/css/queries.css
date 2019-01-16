@@ -1,0 +1,19 @@
+/* BIG TABLETS TO 1200px (width smaller than 1140px row) */
+@media only screen and (max-width: 1200px) {
+
+}
+
+/* SMALL TABLETS TO BIG TABLETS - 769px to 1024px */
+@media only screen and (max-width: 1024px) {
+
+}
+
+/* SMALL PHONES TO SMALL TABLETS - 481px to 768px */
+@media only screen and (max-width: 768px)  {
+	.logo { width: 10%; height: auto; }
+}
+
+/* SMALL PHONES - 0 to 480px */
+@media only screen and (max-width: 480px) {
+
+}
